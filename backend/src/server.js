@@ -1,5 +1,5 @@
-import express from 'express';
-import path from 'path';
+import express from 'express'
+import path from 'path'
 import connectToDatabase from './db/db-connect';
 
 // Setup Express
