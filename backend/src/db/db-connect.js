@@ -1,6 +1,6 @@
 import mongoose from 'mongoose';
 
-const DEFAULT_CONNECTION_STRING = 'mongodb+srv://scarletadmin:GnVg30jNwvj6hsmw@cs732se750.xshze.mongodb.net/domtest';
+const DEFAULT_CONNECTION_STRING = '';
 
 /**
  * This function begins the process of connecting to the database, and returns a promise that will
